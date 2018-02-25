@@ -1,4 +1,4 @@
-package maps.parking.txstate.edu.maps;
+package maps.parking.txstate.edu;
 
 /**
  * Hello world!
